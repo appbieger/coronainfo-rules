@@ -1,0 +1,16 @@
+volkswagenag: 
+  name : Volkswagen AG
+  logo : volkswagen.png
+  rules: https://appbieger.github.io/coronainfo-rules/company/volkswagen/
+
+audiag: 
+  name : Audi AG
+  logo : audi.png
+  rules: https://appbieger.github.io/coronainfo-rules/company/audiag/
+
+seat: 
+  name : Seat 
+  logo : audi.png
+  rules: https://appbieger.github.io/coronainfo-rules/company/seat/
+
+

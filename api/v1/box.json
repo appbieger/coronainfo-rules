@@ -1,0 +1,24 @@
+---  
+  permalink : /api/v1/box.json
+---
+{
+  "version": "1.0",
+  "products" : [  {% for post in site.posts %}
+    {
+      "name": "{{ post.name }}",
+      "company": "{{ post.company }}",
+      "productName": "{{ post.productName }}",
+      "description": "{{ post.description }}",
+      "amazonLink": "{{ post.amazonLink }}",
+      "usdzFilename": "{{site.url}}{{site.baseurl}}{{ post.usdzFilename }}", 
+      "url": "{{site.url}}{{site.baseurl}}{{post.url}}",
+      "productThumbnailImage": "{{site.url}}{{site.baseurl}}{{post.productThumbnailImage}}",
+      "maxCargingPowerKW": "{{post.maxCargingPowerKW}}", 
+      "productImage": "{{site.url}}{{site.baseurl}}{{post.productImage}}",
+      "fdff" : "{{ site.data.company | jsonify }}"
+      
+    }{% unless forloop.last %},{% endunless %} {% endfor %}
+  ] 
+}
+ 
+

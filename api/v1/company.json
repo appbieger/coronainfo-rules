@@ -1,0 +1,10 @@
+---  
+  permalink : /api/v1/company.json
+---
+{
+  "version": "1.0",
+  "company" : {{ site.data.company | jsonify }} 
+  ] 
+}
+ 
+
