@@ -1,7 +1,8 @@
 ---
     layout: defaultcoronainfo
+    title: Impressum
 ---
-# Angaben gemäß § 5 TMG:
+##### Angaben gemäß § 5 TMG:
   
 Stephan Tomforde  
 Reith 27  

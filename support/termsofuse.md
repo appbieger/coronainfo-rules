@@ -1,5 +1,6 @@
 ---
     layout: defaultcoronainfo
+    title: Nutzungsbedingungen für CoronaInfo App und Website 
 ---
 
 ###### Nutzungsbedingungen für CoronaInfo App und Website 
