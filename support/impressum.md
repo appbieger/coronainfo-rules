@@ -1,6 +1,6 @@
 ---
-    layout: defaultcoronainfo
-    title: Impressum
+  layout: defaultcoronainfo
+  title: Impressum
 ---
 ##### Angaben gemäß § 5 TMG:
   

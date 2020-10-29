@@ -1,6 +1,6 @@
 ---
-    layout: defaultcoronainfo
-    title: Datenschutzerklärung
+  layout: defaultcoronainfo
+  title: Datenschutzerklärung
 ---
 
 ##### Datenschutzerklärung (nach DSGVO) für CoronaInfo Web und Applications
