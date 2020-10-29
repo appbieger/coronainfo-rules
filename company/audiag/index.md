@@ -1,4 +1,5 @@
 ---
+    layout: defaultcoronainfo
     title: Volkswagen AG
 ---
 

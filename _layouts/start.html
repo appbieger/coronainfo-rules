@@ -1,0 +1,69 @@
+---
+layout: default
+---
+
+<div class="container">
+  <div class="row">
+    <p> <h1>Service</h1>  </p>
+  </div>
+  <div class="row">
+    <p>
+      Ob Webseite oder App - ich erstelle das richtige Produkt für Sie.
+    </p>
+  </div>
+ 
+  <div class="row">
+ 
+    
+   
+
+
+
+
+    {% for menue in site.data.appbiegerSections %}
+ 
+    <div class="container-appbieger-start-element col-sm" style="padding-left:0px; padding-right:30px; ">
+
+      <div style="margin-top: 20px; margin-bottom: 20px;" >
+       
+        <img src="./assets/img/{{ menue.image }}" alt="..." class="">
+      </div>
+      <div style="margin-top: 20px; margin-bottom: 20px;" >
+        <h3> {{ menue.name }}</h3>
+       
+      </div>
+      
+ 
+     
+      
+      <div style="margin-top: 20px; margin-bottom: 20px;" >
+        {{ menue.text }}
+      </div>
+      
+      
+
+      </div>
+    {% endfor %}
+ 
+
+   
+ 
+  </div>
+
+
+  <div class="row">
+    <a class="container-appbieger-footer2-link" href="./projekte.html">
+      <button type="button" class="btn btn-primary">Mehr</button>
+    </a>
+  </div>
+
+
+</div>
+ 
+<div class="home">
+  <div class="container-appbieger-start">
+
+</div>
+</div>
+
+ 

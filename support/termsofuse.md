@@ -1,4 +1,8 @@
-## Nutzungsbedingungen für CoronaInfo App und Website 
+---
+    layout: defaultcoronainfo
+---
+
+###### Nutzungsbedingungen für CoronaInfo App und Website 
 
 1. Geltungsbereich der Nutzungsbedingungen
 (1)	Diese Nutzungsbedingungen gelten für das Online-Angebot CoronaInfo App und Website , das im Internet unter CoronaInfo App und Website abrufbar ist.  

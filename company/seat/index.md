@@ -1,5 +1,6 @@
 ---
-    title: Volkswagen AG
+    layout: defaultcoronainfo
+    title: Seat
 ---
-
-Das ist ein HTML Seite
+defaultCoronaInfo
+Das ist ein HTML Seitev v
